@@ -1,0 +1,13 @@
+header {
+    
+}
+
+h1 {
+    background-color: lightgrey;
+    display: inline;
+    font-size: 60px;
+}
+
+.banner {
+    background-color: darkslategrey;
+}
