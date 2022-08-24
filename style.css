@@ -4,23 +4,30 @@ header {
 }
 
 h1 {
-    background-color: lightgrey;
+    background-color: red;
     display: inline;
     font-size: 60px;
 }
 
+nav ul {
+    position: static;
+}
+
 .banner {
-    background-color: darkslategrey;
-    height: 120px;
+    background-color: green;
 }
 
 nav {
-    display: flex;
-    padding: 14px 20px;
+    display: inline-flex;
     justify-content: flex-end;
+    position: absolute;
 }
 
-nav a {
-    padding 14px 20px;
-    text-align: center;
+h2 {
+    font-size: 50px;
 }
+
+.Me {
+
+}
+
