@@ -41,17 +41,19 @@ nav ul {
 }
 
 .aboutme {
-    height: 230px;
+    height: 245px;
 }
 
 h2 {
     font-size: 50px;
+    position: absolute;
+    left: 12%;
 }
 
 p {
     position: absolute;
-    left: 13%;
-    top: 305px;
+    left: 25%;
+    top: 290px;
     font-size: 25px;
 }
 
@@ -59,7 +61,7 @@ p {
     border-left: 6px solid darkblue;
     height: 250px;
     position: absolute;
-    left: 13%;
+    left: 25%;
     margin-left: -15px;
     top: 300px;
 }
@@ -67,29 +69,34 @@ p {
 h3 {
     font-size: 50px;
     position: absolute;
-    left: 5%;
+    left: 17%;
 }
 
 .work {
-    height: 650px;
+    height: 565px;
 }
 
 .workvl {
     border-left: 6px solid darkblue;
-    height: 500px;
+    height: 550px;
     position: absolute;
-    left: 13%;
+    left: 25%;
     margin-left: -15px;
-    top: 600px;
-}
-
-.contactme {
-
+    top: 575px;
 }
 
 h4 {
     font-size: 50px;
+    position: absolute;
+    left: 10%;
 }
 
-
+.contactmevl {
+    border-left: 6px solid darkblue;
+    height: 150px;
+    position: absolute;
+    left: 25%;
+    margin-left: -15px;
+    top: 1150px;
+}
 
