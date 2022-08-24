@@ -1,13 +1,11 @@
 header {
     font-size: 32px;
-    
-    
 }
 
 h1 {
-    background-color: red;
     display: inline;
     font-size: 60px;
+    color: black;
 }
 
 .banner {
@@ -18,12 +16,16 @@ h1 {
 nav {
     display: flex;
     justify-content: flex-end;
-    
-   
+    padding-bottom: 15px;
+    padding-right: 15px;
 }
 
 nav ul {
-    
+    display: inline-block;
+    position: relative;
+    margin-top: -50px;
+    color: black;
+    font-size: 40px;
 }
 
 h2 {
