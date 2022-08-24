@@ -1,3 +1,7 @@
+body {
+    background-color: grey;
+}
+
 header {
     font-size: 32px;
 }
@@ -9,7 +13,7 @@ h1 {
 }
 
 .banner {
-    background-color: green;
+    background-color: grey;
     height: 70px;
 }
 
@@ -28,8 +32,64 @@ nav ul {
     font-size: 40px;
 }
 
+.hero {
+    height: 200px;
+    width: 100%;
+    background-image: url("../images/bllue.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.aboutme {
+    height: 230px;
+}
+
 h2 {
     font-size: 50px;
 }
+
+p {
+    position: absolute;
+    left: 13%;
+    top: 305px;
+    font-size: 25px;
+}
+
+.aboutmevl {
+    border-left: 6px solid darkblue;
+    height: 250px;
+    position: absolute;
+    left: 13%;
+    margin-left: -15px;
+    top: 300px;
+}
+
+h3 {
+    font-size: 50px;
+    position: absolute;
+    left: 5%;
+}
+
+.work {
+    height: 650px;
+}
+
+.workvl {
+    border-left: 6px solid darkblue;
+    height: 500px;
+    position: absolute;
+    left: 13%;
+    margin-left: -15px;
+    top: 600px;
+}
+
+.contactme {
+
+}
+
+h4 {
+    font-size: 50px;
+}
+
 
 
