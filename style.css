@@ -1,5 +1,6 @@
 header {
-    
+    font-size: 32px;
+    justify-content: right;
 }
 
 h1 {
@@ -10,4 +11,16 @@ h1 {
 
 .banner {
     background-color: darkslategrey;
+    height: 120px;
+}
+
+nav {
+    display: flex;
+    padding: 14px 20px;
+    justify-content: flex-end;
+}
+
+nav a {
+    padding 14px 20px;
+    text-align: center;
 }
