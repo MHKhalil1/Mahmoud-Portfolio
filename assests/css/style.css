@@ -1,6 +1,7 @@
 header {
     font-size: 32px;
-    justify-content: right;
+    
+    
 }
 
 h1 {
@@ -9,25 +10,24 @@ h1 {
     font-size: 60px;
 }
 
-nav ul {
-    position: static;
-}
-
 .banner {
     background-color: green;
+    height: 70px;
 }
 
 nav {
-    display: inline-flex;
+    display: flex;
     justify-content: flex-end;
-    position: absolute;
+    
+   
+}
+
+nav ul {
+    
 }
 
 h2 {
     font-size: 50px;
 }
 
-.Me {
-
-}
 
