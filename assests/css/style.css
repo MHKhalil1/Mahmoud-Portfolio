@@ -92,6 +92,56 @@ h3 {
     top: 575px;
 }
 
+.img1 {
+    position: absolute;
+    left: 40%;
+    top: 565px;
+}
+
+.img2 {
+    position: absolute;
+    left: 25%;
+    top: 565px;
+}
+
+.img3 {
+    position: absolute;
+    left: 25%;
+    top: 830px
+}
+
+.img4 {
+    position: absolute;
+    left: 40%;
+    top: 830px;
+}
+
+.img5 {
+    position: absolute;
+    left: 55%;
+    top: 565px;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid darkblue;
+    justify-content: center;
+    width: 300px;
+    height: 465px;
+}
+
+.img1,
+.img2,
+.img3,
+.img4 {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 9px solid darkblue;
+    justify-content: center;
+}
+
 h4 {
     font-size: 50px;
     position: absolute;
