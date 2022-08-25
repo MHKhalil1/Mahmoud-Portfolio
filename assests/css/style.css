@@ -34,7 +34,7 @@ nav ul {
 
 .hero {
     height: 200px;
-    width: 100%;
+    width: 1895px;
     background-image: url("../images/bllue.jpg");
     background-size: cover;
     background-position: center;
@@ -50,11 +50,18 @@ h2 {
     left: 12%;
 }
 
+img {
+    position: absolute;
+    left: 83%;
+    
+}
+
 p {
     position: absolute;
     left: 25%;
     top: 290px;
     font-size: 25px;
+    margin-right: 400px;
 }
 
 .aboutmevl {
