@@ -107,3 +107,9 @@ h4 {
     top: 1150px;
 }
 
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    padding-top: 80px;
+}
