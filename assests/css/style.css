@@ -13,7 +13,6 @@ h1 {
 }
 
 .banner {
-    background-color: grey;
     height: 70px;
 }
 
@@ -52,8 +51,10 @@ h2 {
 
 img {
     position: absolute;
-    left: 83%;
-    
+    left: 81%;
+    border: 9px solid darkblue;
+    background-color: lightblue;
+    padding: 20px;
 }
 
 p {
@@ -161,5 +162,32 @@ footer ul {
     display: flex;
     justify-content: space-around;
     font-size: 30px;
-    padding-top: 80px;
+    padding-top: 95px;
+}
+
+@media screen and (max-width: 992px) {
+    
+    body {
+        width: 50%;
+    }
+    header {
+        background-color: aqua;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+        width: 100%;
+    }
+    nav {
+        background-color: green;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    body {
+        background-color: purple;
+    }
 }
