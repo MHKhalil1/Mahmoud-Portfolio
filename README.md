@@ -9,4 +9,8 @@ This is my first assignment I have done starting from scratch and it was my Port
 
 ## Screenshot
 
+![This is a screenshot of how the portfolio looks](./assests/images/Mahmoud-Porfolio_index.html.png)
+
 ### Deployed Application
+
+https://github.com/MHKhalil1/Mahmoud-Portfolio
