@@ -7,4 +7,6 @@ This is my first assignment I have done starting from scratch and it was my Port
     - My Contact Me section has my phone number, my email, and my GitHub.
     - I have posted an image of myself.
 
-##
+## Screenshot
+
+### Deployed Application
